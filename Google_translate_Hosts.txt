@@ -1,0 +1,41 @@
+
+# Google_translate_Hosts Start
+
+113.108.239.162 translate.google.com
+113.108.239.162 translate.googleapis.com
+142.250.0.90 translate.googleapis.com
+120.253.253.34 translate.googleapis.com
+172.217.163.42 translate.googleapis.com
+142.251.43.10 translate.googleapis.com
+172.217.160.74 translate.googleapis.com
+172.217.160.106 translate.googleapis.com
+142.251.42.234 translate.googleapis.com
+142.250.66.74 translate.googleapis.com
+142.251.220.106 translate.googleapis.com
+74.125.68.95 translate.googleapis.com
+142.251.36.10 translate.googleapis.com
+142.250.181.234 translate.googleapis.com
+142.250.217.138 translate.googleapis.com
+142.250.207.106 translate.googleapis.com
+172.217.14.106 translate.googleapis.com
+172.217.24.106 translate.googleapis.com
+64.233.162.95 translate.googleapis.com
+64.233.185.95 translate.googleapis.com
+142.250.179.170 translate.googleapis.com
+172.217.16.234 translate.googleapis.com
+142.250.196.106 translate.googleapis.com
+142.250.72.170 translate.googleapis.com
+172.217.31.10 translate.googleapis.com
+172.217.27.10 translate.googleapis.com
+172.217.17.106 translate.googleapis.com
+142.250.204.74 translate.googleapis.com
+172.217.24.74 translate.googleapis.com
+142.251.41.74 translate.googleapis.com
+142.251.220.42 translate.googleapis.com
+142.250.206.234 translate.googleapis.com
+216.58.205.42 translate.googleapis.com
+216.58.208.106 translate.googleapis.com
+
+# Update url: https://raw.github.ink/wlc743859910/Google_translate_Hosts/master/Google_translate_Hosts.txt
+# Star me: https://github.ink/wlc743859910/Google_translate_Hosts/
+# Google_translate_Hosts End
