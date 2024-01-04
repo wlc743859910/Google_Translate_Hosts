@@ -1,5 +1,5 @@
 
-# Google_translate_Hosts Start
+# Google_Translate_Hosts Start
 
 113.108.239.162 translate.google.com
 113.108.239.162 translate.googleapis.com
@@ -36,6 +36,6 @@
 216.58.205.42 translate.googleapis.com
 216.58.208.106 translate.googleapis.com
 
-# Update url: https://raw.github.ink/wlc743859910/Google_translate_Hosts/master/Google_translate_Hosts.txt
-# Star me: https://github.ink/wlc743859910/Google_translate_Hosts/
-# Google_translate_Hosts End
+# Update url: https://raw.github.ink/wlc743859910/Google_Translate_Hosts/master/Google_Translate_Hosts.txt
+# Star me: https://github.ink/wlc743859910/Google_Translate_Hosts/
+# Google_Translate_Hosts End
