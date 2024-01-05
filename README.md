@@ -2,10 +2,6 @@
 
 ---
 
-Google_Translate_Hosts
-
----
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/gh-readme-header.webp">
 </p>
