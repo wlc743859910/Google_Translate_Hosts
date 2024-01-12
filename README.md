@@ -2,6 +2,20 @@
 
 ---
 
+Google_Translate_Hosts
+https://github.com/wlc743859910/Google_Translate_Hosts
+链接1：https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/Google_Translate_Hosts.txt
+链接2：https://raw.github.ink/wlc743859910/Google_Translate_Hosts/master/Google_Translate_Hosts.txt
+链接3：https://gcore.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/Google_Translate_Hosts.txt
+链接4：https://github.com/wlc743859910/Google_Translate_Hosts/blob/master/Google_Translate_Hosts.txt
+链接5：https://fastly.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/Google_Translate_Hosts.txt
+链接6：https://testingcf.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/Google_Translate_Hosts.txt
+链接7：https://originfastly.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/Google_Translate_Hosts.txt
+链接8：https://raw.githubusercontent.com/wlc743859910/Google_Translate_Hosts/master/Google_Translate_Hosts.txt
+链接9：https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/Google_Translate_Hosts/master/Google_Translate_Hosts.txt
+
+---
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/gh-readme-header.webp">
 </p>
@@ -35,7 +49,7 @@
 <table>
     <tr>
         <td >
-网名：我只是你的过客
+昵称：我只是你的过客
 
 个性签名：每个人都是每个人的过客
 
