@@ -36,6 +36,6 @@
 216.58.205.42 translate.googleapis.com
 216.58.208.106 translate.googleapis.com
 
-# Update url: https://github.com/wlc743859910/Google_Translate_Hosts/blob/master/Google_Translate_Hosts.txt
+# Update url: https://raw.github.ink/wlc743859910/Google_Translate_Hosts/master/Google_Translate_Hosts.txt
 # Star me: https://github.com/wlc743859910/Google_Translate_Hosts
 # Google_Translate_Hosts End
