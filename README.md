@@ -17,23 +17,23 @@ https://github.com/wlc743859910/Google_Translate_Hosts
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/gh-readme-header.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/template.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/1424469275.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/fbCScVCQ.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/programmer.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Translate_Hosts/img/5.webp">
 </p>
 
 ---
